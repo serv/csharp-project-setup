@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperMassive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c30506b168b8ade6dcfe81c014464fd36d670b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperMassive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperMassive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
