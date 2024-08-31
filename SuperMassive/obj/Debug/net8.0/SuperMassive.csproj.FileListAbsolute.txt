@@ -1,0 +1,11 @@
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/bin/Debug/net8.0/SuperMassive.deps.json
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/bin/Debug/net8.0/SuperMassive.dll
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/bin/Debug/net8.0/SuperMassive.pdb
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/SuperMassive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/SuperMassive.AssemblyInfoInputs.cache
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/SuperMassive.AssemblyInfo.cs
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/SuperMassive.csproj.CoreCompileInputs.cache
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/SuperMassive.dll
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/refint/SuperMassive.dll
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/SuperMassive.pdb
+/Users/jasonkim/projects/1040weeks/dotnet-projects/project-with-tests/SuperMassive/obj/Debug/net8.0/ref/SuperMassive.dll
